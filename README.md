@@ -1,12 +1,4 @@
-<!--
- * @Author: ygjin11 1633504509@qq.com
- * @Date: 2024-02-09 02:33:29
- * @LastEditors: ygjin11 1633504509@qq.com
- * @LastEditTime: 2024-02-09 14:21:03
- * @FilePath: /GG/r2-play/README.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
-# Read to Play (R2-Play): Decision Transformer with Multimodal Game Instruction
+# Read to Play (R2-Play)
 
 ## Overview
 Official codebase for Read to Play (R2-Play): Decision Transformer with Multimodal Game Instruction. This paper explores multimodal guidance for agents enabling them to comprehend gameplay instructions, thereby facilitating a “read-to-play” capability.

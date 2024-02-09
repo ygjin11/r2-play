@@ -1,0 +1,99 @@
+train:
+  - Montezuma_Revenge
+  - Krull
+eval_id: 
+  - name: Journey_Escape
+    action_dim: 16
+  - name: Krull
+    action_dim: 18
+  - name: Montezuma_Revenge
+    action_dim: 18
+  - name: Bowling
+    action_dim: 6
+  - name: Solaris
+    action_dim: 18
+  - name: Fishing_Derby
+    action_dim: 18
+  - name: Space_Invaders
+    action_dim: 6
+  - name: Battle_Zone
+    action_dim: 18
+  - name: Kangaroo
+    action_dim: 18
+  - name: Seaquest
+    action_dim: 18
+  - name: Name_This_Game
+    action_dim: 6
+  - name: Atlantis
+    action_dim: 4
+  - name: Jamesbond
+    action_dim: 18
+  - name: Centipede
+    action_dim: 18
+  - name: QBert
+    action_dim: 18
+  - name: Double_Dunk
+    action_dim: 18
+  - name: Kung_Fu_Master
+    action_dim: 14
+  - name: Riverraid
+    action_dim: 18
+  - name: Elevator_Action
+    action_dim: 18
+  - name: Venture
+    action_dim: 18
+  - name: Asterix
+    action_dim: 9
+  - name: Enduro
+    action_dim: 9
+  - name: Road_Runner
+    action_dim: 18
+  - name: Robotank
+    action_dim: 18
+  - name: Carnival
+    action_dim: 6
+  - name: Time_Pilot
+    action_dim: 10
+  - name: Beam_Rider
+    action_dim: 9
+  - name: Amidar
+    action_dim: 10
+  - name: Star_Gunner
+    action_dim: 18
+  - name: Up_N_Down
+    action_dim: 6
+  - name: Boxing
+    action_dim: 18
+  - name: Yars_Revenge
+    action_dim: 18
+  - name: Alien
+    action_dim: 18
+  - name: Skiing
+    action_dim: 3
+  - name: Crazy_Climber
+    action_dim: 9
+  - name: Assault
+    action_dim: 7
+  - name: Gopher
+    action_dim: 7
+eval_ood: 
+  - name: Private_Eye
+    action_dim: 18
+  - name: Breakout
+    action_dim: 4
+  - name: Ice_Hockey
+    action_dim: 18
+  - name: Hero
+    action_dim: 18
+  - name: Phoenix
+    action_dim: 8
+  - name: Demon_Attack
+    action_dim: 6
+  - name: Berzerk
+    action_dim: 18
+  - name: Pooyan
+    action_dim: 6
+  - name: Frostbite
+    action_dim: 18
+  - name: Defender 
+    action_dim: 18

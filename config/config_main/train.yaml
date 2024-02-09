@@ -1,0 +1,11 @@
+batch_size: 200
+ckpt_path: 
+condition_type: guide
+condition_dim: 512
+epochs: 30
+game_list: '1'
+num_buffers: 50
+trajectories_per_buffer: 1
+num_steps: 1000
+train_info: 'train'
+num_game_batch: 20

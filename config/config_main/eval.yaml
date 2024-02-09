@@ -1,0 +1,11 @@
+ckpt_eval: 
+condition_type: guide
+condition_dim: 512
+eval_rtg: 500
+game_list: '1'
+max_timestep: 27002 # decided by model 
+model_type: reward_conditioned
+eval_num: 1
+save_path: result/
+eval_info: 'eval'
+time_terminal: 50

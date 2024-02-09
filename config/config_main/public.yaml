@@ -1,0 +1,6 @@
+dataset_dir: data/dataset 
+instruct_dir: data/instruction
+model_type: reward_conditioned
+action_space: 18
+seed: 100
+context_length: 20

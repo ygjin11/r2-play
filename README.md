@@ -78,7 +78,7 @@ sh eval/run.sh
 ```
 @article{Jin2024,
   title={Read to Play (R2-Play): Decision Transformer with Multimodal Game Instruction},
-  author={Yonggang Jin, Ge Zhang, Hao Zhao, Tianyu Zheng, Jiawei Guo, Liuyu Xiang, Tommy X. Yue, Wenhao Huang, Wenhu Chen, Zhaofeng He, Jie Fu},
+  author={Yonggang Jin, Ge Zhang, Hao Zhao, Tianyu Zheng, Jiawei Guo, Liuyu Xiang, Shawn Yue, Wenhao Huang, Wenhu Chen, Zhaofeng He, Jie Fu},
   journal={arXiv preprint arXiv:2402.04154},
   year={2024}
 }

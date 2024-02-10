@@ -22,9 +22,9 @@ gsutil -m cp -R gs://atari-replay-datasets/dqn/[GAME_NAME] [DIRECTORY_NAME]
 
 ## Game Instruction Set
 The Game Instruction Set comprises the following components stored in the designated directories:
-* Game Description (stored in data/instruction/raw/DESCRIPTION)
-* Game Trajectory (stored in data/instruction/raw/TRAJECTORY)
-* Game Guidance (stored in data/instruction/raw/GUIDANCE)
+* Game Description (stored in data/instruction/raw/Desc)
+* Game Trajectory (stored in data/instruction/raw/Traj)
+* Game Guidance (stored in data/instruction/raw/Guid)
 ```
 # a example of Game Guidance
 {

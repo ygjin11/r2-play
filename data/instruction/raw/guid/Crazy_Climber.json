@@ -1,0 +1,16102 @@
+{
+ "1": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      244
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      245
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      153,
+      246
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      271
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      244
+     ],
+     [
+      182,
+      273
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      244
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      244
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  }
+ },
+ "2": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      244
+     ],
+     [
+      183,
+      272
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      244
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      182,
+      273
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[right]",
+   "guidance": "climber right",
+   "elements": {
+    "climber": [
+     [
+      151,
+      244
+     ],
+     [
+      186,
+      272
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      165,
+      244
+     ],
+     [
+      196,
+      273
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      165,
+      244
+     ],
+     [
+      196,
+      273
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      165,
+      245
+     ],
+     [
+      195,
+      273
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[right]",
+   "guidance": "climber right",
+   "elements": {
+    "climber": [
+     [
+      165,
+      244
+     ],
+     [
+      200,
+      273
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      245
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      245
+     ],
+     [
+      211,
+      272
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      245
+     ],
+     [
+      210,
+      273
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      245
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      245
+     ],
+     [
+      210,
+      273
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      245
+     ],
+     [
+      210,
+      273
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      244
+     ],
+     [
+      211,
+      273
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      241
+     ],
+     [
+      211,
+      274
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      180,
+      242
+     ],
+     [
+      211,
+      272
+     ]
+    ]
+   }
+  }
+ },
+ "3": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      228,
+      271
+     ],
+     [
+      258,
+      245
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      228,
+      271
+     ],
+     [
+      259,
+      246
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      228,
+      272
+     ],
+     [
+      258,
+      245
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[right]",
+   "guidance": "climber right",
+   "elements": {
+    "climber": [
+     [
+      228,
+      272
+     ],
+     [
+      262,
+      245
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      246
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      278,
+      245
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      246,
+      271
+     ],
+     [
+      278,
+      245
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      246,
+      272
+     ],
+     [
+      278,
+      242
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      248
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      272
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      244
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      246,
+      271
+     ],
+     [
+      278,
+      246
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      242
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  }
+ },
+ "4": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      304,
+      245
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      275,
+      272
+     ],
+     [
+      305,
+      245
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      271
+     ],
+     [
+      305,
+      244
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      271
+     ],
+     [
+      305,
+      244
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      305,
+      244
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      275,
+      272
+     ],
+     [
+      306,
+      244
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      274,
+      271
+     ],
+     [
+      306,
+      245
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      275,
+      270
+     ],
+     [
+      305,
+      245
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      305,
+      244
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      306,
+      244
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      305,
+      245
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      275,
+      274
+     ],
+     [
+      307,
+      244
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      271
+     ],
+     [
+      305,
+      245
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      305,
+      245
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      271
+     ],
+     [
+      304,
+      245
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      270
+     ],
+     [
+      305,
+      245
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      244
+     ],
+     [
+      305,
+      272
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[left]",
+   "guidance": "climber left",
+   "elements": {
+    "climber": [
+     [
+      262,
+      270
+     ],
+     [
+      291,
+      245
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      260,
+      271
+     ],
+     [
+      292,
+      245
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      261,
+      271
+     ],
+     [
+      290,
+      244
+     ]
+    ]
+   }
+  }
+ },
+ "5": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      272
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      276,
+      245
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      243,
+      244
+     ],
+     [
+      277,
+      273
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      245,
+      272
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[down]",
+   "guidance": "climber down",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      272
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      245
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      246,
+      271
+     ],
+     [
+      277,
+      246
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      272
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[down]",
+   "guidance": "climber down",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[down]",
+   "guidance": "climber down",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      276,
+      245
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      276,
+      244
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      276,
+      244
+     ]
+    ]
+   }
+  }
+ },
+ "6": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      279,
+      245
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      271
+     ],
+     [
+      247,
+      247
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      278,
+      272
+     ],
+     [
+      247,
+      249
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      244
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      278,
+      244
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      243
+     ],
+     [
+      276,
+      273
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      247
+     ],
+     [
+      277,
+      270
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      277,
+      249
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      277,
+      246
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      247,
+      243
+     ],
+     [
+      277,
+      272
+     ]
+    ]
+   }
+  }
+ },
+ "7": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      244
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      248,
+      242
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      242
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      270
+     ],
+     [
+      247,
+      246
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      247
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      273
+     ],
+     [
+      246,
+      244
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      245
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      242
+     ]
+    ]
+   }
+  }
+ },
+ "8": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      272
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      276,
+      243
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      248,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      248,
+      272
+     ],
+     [
+      277,
+      247
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      246,
+      272
+     ],
+     [
+      278,
+      245
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      246,
+      273
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      246,
+      271
+     ],
+     [
+      278,
+      244
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      245,
+      272
+     ],
+     [
+      282,
+      244
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[right]",
+   "guidance": "climber right",
+   "elements": {
+    "climber": [
+     [
+      246,
+      271
+     ],
+     [
+      284,
+      244
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      260,
+      273
+     ],
+     [
+      292,
+      245
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      260,
+      271
+     ],
+     [
+      296,
+      245
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[right]",
+   "guidance": "climber right",
+   "elements": {
+    "climber": [
+     [
+      260,
+      272
+     ],
+     [
+      297,
+      245
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      275,
+      272
+     ],
+     [
+      307,
+      244
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      273,
+      271
+     ],
+     [
+      306,
+      244
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      274,
+      272
+     ],
+     [
+      306,
+      245
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      275,
+      272
+     ],
+     [
+      307,
+      242
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      271
+     ],
+     [
+      305,
+      242
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      307,
+      242
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      276,
+      271
+     ],
+     [
+      306,
+      249
+     ]
+    ]
+   }
+  }
+ },
+ "9": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      304,
+      271
+     ],
+     [
+      335,
+      243
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      304,
+      271
+     ],
+     [
+      334,
+      242
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      304,
+      271
+     ],
+     [
+      334,
+      243
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      304,
+      272
+     ],
+     [
+      334,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      305,
+      271
+     ],
+     [
+      335,
+      250
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      303,
+      271
+     ],
+     [
+      335,
+      246
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      304,
+      271
+     ],
+     [
+      335,
+      246
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      304,
+      271
+     ],
+     [
+      335,
+      245
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      303,
+      272
+     ],
+     [
+      335,
+      243
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      303,
+      271
+     ],
+     [
+      335,
+      243
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      303,
+      272
+     ],
+     [
+      334,
+      243
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      304,
+      272
+     ],
+     [
+      334,
+      243
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      303,
+      271
+     ],
+     [
+      334,
+      242
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      305,
+      272
+     ],
+     [
+      334,
+      243
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      303,
+      273
+     ],
+     [
+      335,
+      250
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      303,
+      271
+     ],
+     [
+      335,
+      245
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      304,
+      271
+     ],
+     [
+      336,
+      246
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      303,
+      271
+     ],
+     [
+      335,
+      243
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      305,
+      272
+     ],
+     [
+      336,
+      243
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      304,
+      271
+     ],
+     [
+      335,
+      243
+     ]
+    ]
+   }
+  }
+ },
+ "10": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      245
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      245
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      245
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      245
+     ],
+     [
+      211,
+      272
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      242
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      242
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      248
+     ],
+     [
+      210,
+      273
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      245
+     ],
+     [
+      211,
+      272
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      246
+     ],
+     [
+      211,
+      272
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      246
+     ],
+     [
+      210,
+      271
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      245
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      244
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      211,
+      272
+     ],
+     [
+      173,
+      245
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[left]",
+   "guidance": "climber left",
+   "elements": {
+    "climber": [
+     [
+      210,
+      273
+     ],
+     [
+      174,
+      245
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[left]",
+   "guidance": "climber left",
+   "elements": {
+    "climber": [
+     [
+      197,
+      272
+     ],
+     [
+      164,
+      245
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      182,
+      273
+     ],
+     [
+      150,
+      245
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      151,
+      242
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  }
+ },
+ "11": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      243
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      244
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      244
+     ],
+     [
+      180,
+      272
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      242
+     ],
+     [
+      180,
+      272
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      151,
+      249
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      246
+     ],
+     [
+      180,
+      272
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      246
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[right]",
+   "guidance": "climber right",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      180,
+      272
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[right]",
+   "guidance": "climber right",
+   "elements": {
+    "climber": [
+     [
+      152,
+      244
+     ],
+     [
+      185,
+      272
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      166,
+      246
+     ],
+     [
+      196,
+      273
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[right]",
+   "guidance": "climber right",
+   "elements": {
+    "climber": [
+     [
+      165,
+      246
+     ],
+     [
+      200,
+      272
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      246
+     ],
+     [
+      210,
+      273
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      245
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      246
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      245
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      243
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      181,
+      243
+     ],
+     [
+      209,
+      273
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      181,
+      246
+     ],
+     [
+      209,
+      271
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      181,
+      246
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  }
+ },
+ "12": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      245
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      181,
+      245
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      244
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      244
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      243
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      244
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      243
+     ],
+     [
+      209,
+      273
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      243
+     ],
+     [
+      208,
+      272
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      181,
+      243
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      246
+     ],
+     [
+      210,
+      271
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      245
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      245
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      246
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      246
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      243
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      243
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      181,
+      243
+     ],
+     [
+      208,
+      272
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      247
+     ],
+     [
+      210,
+      271
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      181,
+      248
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      181,
+      246
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  }
+ },
+ "13": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      242
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      181,
+      242
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      273
+     ],
+     [
+      180,
+      242
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      181,
+      249
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      273
+     ],
+     [
+      181,
+      244
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      245
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      273
+     ],
+     [
+      182,
+      242
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      273
+     ],
+     [
+      180,
+      243
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      242
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      242
+     ],
+     [
+      181,
+      271
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      242
+     ],
+     [
+      180,
+      272
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      271
+     ],
+     [
+      181,
+      244
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      272
+     ],
+     [
+      181,
+      246
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      245
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      272
+     ],
+     [
+      181,
+      244
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      273
+     ],
+     [
+      181,
+      243
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      272
+     ],
+     [
+      181,
+      242
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      242
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      151,
+      273
+     ],
+     [
+      181,
+      248
+     ]
+    ]
+   }
+  }
+ },
+ "14": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      165,
+      273
+     ],
+     [
+      194,
+      246
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      165,
+      271
+     ],
+     [
+      195,
+      247
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      166,
+      272
+     ],
+     [
+      195,
+      246
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      165,
+      272
+     ],
+     [
+      196,
+      246
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      165,
+      272
+     ],
+     [
+      194,
+      246
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      165,
+      272
+     ],
+     [
+      196,
+      246
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      164,
+      272
+     ],
+     [
+      194,
+      246
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      166,
+      272
+     ],
+     [
+      195,
+      246
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      165,
+      271
+     ],
+     [
+      194,
+      246
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      165,
+      272
+     ],
+     [
+      195,
+      245
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      166,
+      272
+     ],
+     [
+      194,
+      245
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      166,
+      272
+     ],
+     [
+      194,
+      246
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      165,
+      272
+     ],
+     [
+      195,
+      245
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      165,
+      272
+     ],
+     [
+      195,
+      246
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      165,
+      272
+     ],
+     [
+      200,
+      245
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      165,
+      272
+     ],
+     [
+      200,
+      245
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      165,
+      272
+     ],
+     [
+      194,
+      244
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      166,
+      272
+     ],
+     [
+      195,
+      243
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      165,
+      271
+     ],
+     [
+      194,
+      243
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      165,
+      272
+     ],
+     [
+      195,
+      243
+     ]
+    ]
+   }
+  }
+ },
+ "15": {
+  "1": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      178,
+      271
+     ],
+     [
+      211,
+      245
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      273
+     ],
+     [
+      211,
+      245
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      212,
+      244
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      273
+     ],
+     [
+      211,
+      245
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      272
+     ],
+     [
+      210,
+      244
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      273
+     ],
+     [
+      211,
+      242
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      273
+     ],
+     [
+      211,
+      242
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      271
+     ],
+     [
+      210,
+      244
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      179,
+      273
+     ],
+     [
+      210,
+      247
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      272
+     ],
+     [
+      211,
+      246
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      273
+     ],
+     [
+      211,
+      244
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      273
+     ],
+     [
+      210,
+      243
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      273
+     ],
+     [
+      212,
+      243
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      273
+     ],
+     [
+      212,
+      244
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      272
+     ],
+     [
+      211,
+      244
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      272
+     ],
+     [
+      210,
+      244
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      273
+     ],
+     [
+      211,
+      242
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      211,
+      242
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      272
+     ],
+     [
+      211,
+      241
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      179,
+      271
+     ],
+     [
+      211,
+      245
+     ]
+    ]
+   }
+  }
+ },
+ "16": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      212,
+      248
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      272
+     ],
+     [
+      211,
+      249
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      273
+     ],
+     [
+      211,
+      248
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      273
+     ],
+     [
+      211,
+      248
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      272
+     ],
+     [
+      211,
+      247
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      211,
+      248
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      271
+     ],
+     [
+      211,
+      247
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      271
+     ],
+     [
+      210,
+      247
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      210,
+      248
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      274
+     ],
+     [
+      210,
+      248
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      178,
+      272
+     ],
+     [
+      211,
+      247
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      210,
+      248
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      273
+     ],
+     [
+      211,
+      249
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      178,
+      273
+     ],
+     [
+      212,
+      248
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      272
+     ],
+     [
+      210,
+      248
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      178,
+      272
+     ],
+     [
+      210,
+      248
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      212,
+      245
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      178,
+      272
+     ],
+     [
+      211,
+      245
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      178,
+      272
+     ],
+     [
+      211,
+      244
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      180,
+      274
+     ],
+     [
+      210,
+      245
+     ]
+    ]
+   }
+  }
+ },
+ "17": {
+  "1": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      245
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      272
+     ],
+     [
+      210,
+      242
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      273
+     ],
+     [
+      210,
+      242
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      273
+     ],
+     [
+      210,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      270
+     ],
+     [
+      211,
+      246
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      272
+     ],
+     [
+      211,
+      245
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      272
+     ],
+     [
+      211,
+      246
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      178,
+      272
+     ],
+     [
+      210,
+      246
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      273
+     ],
+     [
+      210,
+      243
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      210,
+      243
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      271
+     ],
+     [
+      210,
+      243
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      210,
+      247
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      272
+     ],
+     [
+      210,
+      245
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      244
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      211,
+      245
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      210,
+      243
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      181,
+      272
+     ],
+     [
+      210,
+      242
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      271
+     ],
+     [
+      210,
+      246
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      210,
+      248
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      210,
+      244
+     ]
+    ]
+   }
+  }
+ },
+ "18": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      244
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      248,
+      242
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      242
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      270
+     ],
+     [
+      247,
+      246
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      247
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      273
+     ],
+     [
+      246,
+      244
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      245
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      242
+     ]
+    ]
+   }
+  }
+ },
+ "19": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      228,
+      271
+     ],
+     [
+      258,
+      245
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      228,
+      271
+     ],
+     [
+      259,
+      246
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      228,
+      272
+     ],
+     [
+      258,
+      245
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[right]",
+   "guidance": "climber right",
+   "elements": {
+    "climber": [
+     [
+      228,
+      272
+     ],
+     [
+      262,
+      245
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      246
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      278,
+      245
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      246,
+      271
+     ],
+     [
+      278,
+      245
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      246,
+      272
+     ],
+     [
+      278,
+      242
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      248
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      272
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      244
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      246,
+      271
+     ],
+     [
+      278,
+      246
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      242
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  }
+ },
+ "20": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      244
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      248,
+      242
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      242
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      270
+     ],
+     [
+      247,
+      246
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      247
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      273
+     ],
+     [
+      246,
+      244
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      245
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      242
+     ]
+    ]
+   }
+  }
+ },
+ "21": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      212,
+      248
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      272
+     ],
+     [
+      211,
+      249
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      273
+     ],
+     [
+      211,
+      248
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      273
+     ],
+     [
+      211,
+      248
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      272
+     ],
+     [
+      211,
+      247
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      211,
+      248
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      271
+     ],
+     [
+      211,
+      247
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      271
+     ],
+     [
+      210,
+      247
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      210,
+      248
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      274
+     ],
+     [
+      210,
+      248
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      178,
+      272
+     ],
+     [
+      211,
+      247
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      210,
+      248
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      273
+     ],
+     [
+      211,
+      249
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      178,
+      273
+     ],
+     [
+      212,
+      248
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      272
+     ],
+     [
+      210,
+      248
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      178,
+      272
+     ],
+     [
+      210,
+      248
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      212,
+      245
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      178,
+      272
+     ],
+     [
+      211,
+      245
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      178,
+      272
+     ],
+     [
+      211,
+      244
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      180,
+      274
+     ],
+     [
+      210,
+      245
+     ]
+    ]
+   }
+  }
+ },
+ "22": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      244
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      245
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      153,
+      246
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      271
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      244
+     ],
+     [
+      182,
+      273
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      244
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      244
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  }
+ },
+ "23": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      272
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      276,
+      245
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      243,
+      244
+     ],
+     [
+      277,
+      273
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      245,
+      272
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[down]",
+   "guidance": "climber down",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      272
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      245
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      246,
+      271
+     ],
+     [
+      277,
+      246
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      272
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[down]",
+   "guidance": "climber down",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[down]",
+   "guidance": "climber down",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      276,
+      245
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      276,
+      244
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      276,
+      244
+     ]
+    ]
+   }
+  }
+ },
+ "24": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      244
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      248,
+      242
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      242
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      270
+     ],
+     [
+      247,
+      246
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      247
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      273
+     ],
+     [
+      246,
+      244
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      245
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      242
+     ]
+    ]
+   }
+  }
+ },
+ "25": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      244
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      245
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      153,
+      246
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      271
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      244
+     ],
+     [
+      182,
+      273
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      244
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      244
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  }
+ },
+ "26": {
+  "1": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      245
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      272
+     ],
+     [
+      210,
+      242
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      273
+     ],
+     [
+      210,
+      242
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      273
+     ],
+     [
+      210,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      270
+     ],
+     [
+      211,
+      246
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      272
+     ],
+     [
+      211,
+      245
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      272
+     ],
+     [
+      211,
+      246
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      178,
+      272
+     ],
+     [
+      210,
+      246
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      273
+     ],
+     [
+      210,
+      243
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      210,
+      243
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      271
+     ],
+     [
+      210,
+      243
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      210,
+      247
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      272
+     ],
+     [
+      210,
+      245
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      244
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      211,
+      245
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      210,
+      243
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      181,
+      272
+     ],
+     [
+      210,
+      242
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      271
+     ],
+     [
+      210,
+      246
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      210,
+      248
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      180,
+      272
+     ],
+     [
+      210,
+      244
+     ]
+    ]
+   }
+  }
+ },
+ "27": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      228,
+      271
+     ],
+     [
+      258,
+      245
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      228,
+      271
+     ],
+     [
+      259,
+      246
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      228,
+      272
+     ],
+     [
+      258,
+      245
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[right]",
+   "guidance": "climber right",
+   "elements": {
+    "climber": [
+     [
+      228,
+      272
+     ],
+     [
+      262,
+      245
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      246
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      278,
+      245
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      246,
+      271
+     ],
+     [
+      278,
+      245
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      246,
+      272
+     ],
+     [
+      278,
+      242
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      248
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      272
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      244
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      246,
+      271
+     ],
+     [
+      278,
+      246
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      242
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  }
+ },
+ "28": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      244
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      248,
+      242
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      242
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      270
+     ],
+     [
+      247,
+      246
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      247
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      273
+     ],
+     [
+      246,
+      244
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      245
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      242
+     ]
+    ]
+   }
+  }
+ },
+ "29": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      279,
+      245
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      271
+     ],
+     [
+      247,
+      247
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      278,
+      272
+     ],
+     [
+      247,
+      249
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      244
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      278,
+      244
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      243
+     ],
+     [
+      276,
+      273
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      247
+     ],
+     [
+      277,
+      270
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      277,
+      249
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      277,
+      246
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      247,
+      243
+     ],
+     [
+      277,
+      272
+     ]
+    ]
+   }
+  }
+ },
+ "30": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      304,
+      245
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      275,
+      272
+     ],
+     [
+      305,
+      245
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      271
+     ],
+     [
+      305,
+      244
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      271
+     ],
+     [
+      305,
+      244
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      305,
+      244
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      275,
+      272
+     ],
+     [
+      306,
+      244
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      274,
+      271
+     ],
+     [
+      306,
+      245
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      275,
+      270
+     ],
+     [
+      305,
+      245
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      305,
+      244
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      306,
+      244
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      305,
+      245
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      275,
+      274
+     ],
+     [
+      307,
+      244
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      271
+     ],
+     [
+      305,
+      245
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      305,
+      245
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      271
+     ],
+     [
+      304,
+      245
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      270
+     ],
+     [
+      305,
+      245
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      244
+     ],
+     [
+      305,
+      272
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[left]",
+   "guidance": "climber left",
+   "elements": {
+    "climber": [
+     [
+      262,
+      270
+     ],
+     [
+      291,
+      245
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      260,
+      271
+     ],
+     [
+      292,
+      245
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      261,
+      271
+     ],
+     [
+      290,
+      244
+     ]
+    ]
+   }
+  }
+ },
+ "31": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      244
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      248,
+      242
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      242
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      270
+     ],
+     [
+      247,
+      246
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      247
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      273
+     ],
+     [
+      246,
+      244
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      245
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      242
+     ]
+    ]
+   }
+  }
+ },
+ "32": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      244
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      248,
+      242
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      242
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      270
+     ],
+     [
+      247,
+      246
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      247
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      273
+     ],
+     [
+      246,
+      244
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      245
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      242
+     ]
+    ]
+   }
+  }
+ },
+ "33": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      243
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      244
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      244
+     ],
+     [
+      180,
+      272
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      242
+     ],
+     [
+      180,
+      272
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      151,
+      249
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      246
+     ],
+     [
+      180,
+      272
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      246
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[right]",
+   "guidance": "climber right",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      180,
+      272
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[right]",
+   "guidance": "climber right",
+   "elements": {
+    "climber": [
+     [
+      152,
+      244
+     ],
+     [
+      185,
+      272
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      166,
+      246
+     ],
+     [
+      196,
+      273
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[right]",
+   "guidance": "climber right",
+   "elements": {
+    "climber": [
+     [
+      165,
+      246
+     ],
+     [
+      200,
+      272
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      246
+     ],
+     [
+      210,
+      273
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      245
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      246
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      245
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      243
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      181,
+      243
+     ],
+     [
+      209,
+      273
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      181,
+      246
+     ],
+     [
+      209,
+      271
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      181,
+      246
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  }
+ },
+ "34": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      242
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      181,
+      242
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      273
+     ],
+     [
+      180,
+      242
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      181,
+      249
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      273
+     ],
+     [
+      181,
+      244
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      245
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      273
+     ],
+     [
+      182,
+      242
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      273
+     ],
+     [
+      180,
+      243
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      242
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      242
+     ],
+     [
+      181,
+      271
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      242
+     ],
+     [
+      180,
+      272
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      271
+     ],
+     [
+      181,
+      244
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      272
+     ],
+     [
+      181,
+      246
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      245
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      272
+     ],
+     [
+      181,
+      244
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      273
+     ],
+     [
+      181,
+      243
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      272
+     ],
+     [
+      181,
+      242
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      242
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      151,
+      273
+     ],
+     [
+      181,
+      248
+     ]
+    ]
+   }
+  }
+ },
+ "35": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      244
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      245
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      153,
+      246
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      271
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      244
+     ],
+     [
+      182,
+      273
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      244
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      244
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  }
+ },
+ "36": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      228,
+      271
+     ],
+     [
+      258,
+      245
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      228,
+      271
+     ],
+     [
+      259,
+      246
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      228,
+      272
+     ],
+     [
+      258,
+      245
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[right]",
+   "guidance": "climber right",
+   "elements": {
+    "climber": [
+     [
+      228,
+      272
+     ],
+     [
+      262,
+      245
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      246
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      278,
+      245
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      246,
+      271
+     ],
+     [
+      278,
+      245
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      246,
+      272
+     ],
+     [
+      278,
+      242
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      248
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      272
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      244
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      246,
+      271
+     ],
+     [
+      278,
+      246
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      242
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  }
+ },
+ "37": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      244
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      248,
+      242
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      242
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      270
+     ],
+     [
+      247,
+      246
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      247
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      273
+     ],
+     [
+      246,
+      244
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      245
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      242
+     ]
+    ]
+   }
+  }
+ },
+ "38": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      242
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      181,
+      242
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      273
+     ],
+     [
+      180,
+      242
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      181,
+      249
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      273
+     ],
+     [
+      181,
+      244
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      245
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      273
+     ],
+     [
+      182,
+      242
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      273
+     ],
+     [
+      180,
+      243
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      242
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      242
+     ],
+     [
+      181,
+      271
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      242
+     ],
+     [
+      180,
+      272
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      271
+     ],
+     [
+      181,
+      244
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      272
+     ],
+     [
+      181,
+      246
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      245
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      272
+     ],
+     [
+      181,
+      244
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      273
+     ],
+     [
+      181,
+      243
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      272
+     ],
+     [
+      181,
+      242
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      242
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      151,
+      273
+     ],
+     [
+      181,
+      248
+     ]
+    ]
+   }
+  }
+ },
+ "39": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      244
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      248,
+      242
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      242
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      270
+     ],
+     [
+      247,
+      246
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      247
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      273
+     ],
+     [
+      246,
+      244
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      245
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      242
+     ]
+    ]
+   }
+  }
+ },
+ "40": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      244
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      248,
+      242
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      242
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      270
+     ],
+     [
+      247,
+      246
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      247
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      273
+     ],
+     [
+      246,
+      244
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      245
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      242
+     ]
+    ]
+   }
+  }
+ },
+ "41": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      245
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      245
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      245
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      245
+     ],
+     [
+      211,
+      272
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      242
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      181,
+      242
+     ],
+     [
+      209,
+      272
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      248
+     ],
+     [
+      210,
+      273
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      180,
+      245
+     ],
+     [
+      211,
+      272
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      179,
+      246
+     ],
+     [
+      211,
+      272
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      246
+     ],
+     [
+      210,
+      271
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      245
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      180,
+      244
+     ],
+     [
+      210,
+      272
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      211,
+      272
+     ],
+     [
+      173,
+      245
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[left]",
+   "guidance": "climber left",
+   "elements": {
+    "climber": [
+     [
+      210,
+      273
+     ],
+     [
+      174,
+      245
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[left]",
+   "guidance": "climber left",
+   "elements": {
+    "climber": [
+     [
+      197,
+      272
+     ],
+     [
+      164,
+      245
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      182,
+      273
+     ],
+     [
+      150,
+      245
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      151,
+      242
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  }
+ },
+ "42": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      242
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      181,
+      242
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      273
+     ],
+     [
+      180,
+      242
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      181,
+      249
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      273
+     ],
+     [
+      181,
+      244
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      245
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      273
+     ],
+     [
+      182,
+      242
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      273
+     ],
+     [
+      180,
+      243
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      242
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      242
+     ],
+     [
+      181,
+      271
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      242
+     ],
+     [
+      180,
+      272
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      271
+     ],
+     [
+      181,
+      244
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      272
+     ],
+     [
+      181,
+      246
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      245
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      272
+     ],
+     [
+      181,
+      244
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      273
+     ],
+     [
+      181,
+      243
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      272
+     ],
+     [
+      181,
+      242
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      242
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      151,
+      273
+     ],
+     [
+      181,
+      248
+     ]
+    ]
+   }
+  }
+ },
+ "43": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      279,
+      245
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      271
+     ],
+     [
+      247,
+      247
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      278,
+      272
+     ],
+     [
+      247,
+      249
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      244
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      278,
+      244
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      243
+     ],
+     [
+      276,
+      273
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      247
+     ],
+     [
+      277,
+      270
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      277,
+      249
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      277,
+      246
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      247,
+      243
+     ],
+     [
+      277,
+      272
+     ]
+    ]
+   }
+  }
+ },
+ "44": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      242
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      181,
+      242
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      273
+     ],
+     [
+      180,
+      242
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      181,
+      249
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      273
+     ],
+     [
+      181,
+      244
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      245
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      273
+     ],
+     [
+      182,
+      242
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      273
+     ],
+     [
+      180,
+      243
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      242
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      242
+     ],
+     [
+      181,
+      271
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      242
+     ],
+     [
+      180,
+      272
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      271
+     ],
+     [
+      181,
+      244
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      272
+     ],
+     [
+      181,
+      246
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      245
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      272
+     ],
+     [
+      181,
+      244
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      273
+     ],
+     [
+      181,
+      243
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      272
+     ],
+     [
+      181,
+      242
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      242
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      151,
+      273
+     ],
+     [
+      181,
+      248
+     ]
+    ]
+   }
+  }
+ },
+ "45": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      244
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      248,
+      242
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      242
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      270
+     ],
+     [
+      247,
+      246
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      247
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      276,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      276,
+      273
+     ],
+     [
+      246,
+      244
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      273
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      243
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      246,
+      245
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      273
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      245
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      277,
+      272
+     ],
+     [
+      247,
+      242
+     ]
+    ]
+   }
+  }
+ },
+ "46": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      228,
+      271
+     ],
+     [
+      258,
+      245
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      228,
+      271
+     ],
+     [
+      259,
+      246
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      228,
+      272
+     ],
+     [
+      258,
+      245
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[right]",
+   "guidance": "climber right",
+   "elements": {
+    "climber": [
+     [
+      228,
+      272
+     ],
+     [
+      262,
+      245
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      246
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      278,
+      245
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      246,
+      271
+     ],
+     [
+      278,
+      245
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      246,
+      272
+     ],
+     [
+      278,
+      242
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      248
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      272
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      244
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      246,
+      271
+     ],
+     [
+      278,
+      246
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      242
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  }
+ },
+ "47": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      228,
+      271
+     ],
+     [
+      258,
+      245
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      228,
+      271
+     ],
+     [
+      259,
+      246
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      228,
+      272
+     ],
+     [
+      258,
+      245
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[right]",
+   "guidance": "climber right",
+   "elements": {
+    "climber": [
+     [
+      228,
+      272
+     ],
+     [
+      262,
+      245
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      246
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      278,
+      245
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      246,
+      271
+     ],
+     [
+      278,
+      245
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      246,
+      272
+     ],
+     [
+      278,
+      242
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      248
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      272
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      244
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      246,
+      271
+     ],
+     [
+      278,
+      246
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      242
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  }
+ },
+ "48": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      242
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      181,
+      242
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      273
+     ],
+     [
+      180,
+      242
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      243
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      181,
+      249
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      273
+     ],
+     [
+      181,
+      244
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      245
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      273
+     ],
+     [
+      182,
+      242
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      273
+     ],
+     [
+      180,
+      243
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      242
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      242
+     ],
+     [
+      181,
+      271
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      242
+     ],
+     [
+      180,
+      272
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      271
+     ],
+     [
+      181,
+      244
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      272
+     ],
+     [
+      181,
+      246
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      245
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      272
+     ],
+     [
+      181,
+      244
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      273
+     ],
+     [
+      181,
+      243
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      272
+     ],
+     [
+      181,
+      242
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      151,
+      272
+     ],
+     [
+      180,
+      242
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      151,
+      273
+     ],
+     [
+      181,
+      248
+     ]
+    ]
+   }
+  }
+ },
+ "49": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      244
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      245
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      153,
+      246
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      271
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      152,
+      245
+     ],
+     [
+      181,
+      272
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      150,
+      244
+     ],
+     [
+      182,
+      273
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      244
+     ],
+     [
+      181,
+      273
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      151,
+      244
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      151,
+      245
+     ],
+     [
+      182,
+      272
+     ]
+    ]
+   }
+  }
+ },
+ "50": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      228,
+      271
+     ],
+     [
+      258,
+      245
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      228,
+      271
+     ],
+     [
+      259,
+      246
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      228,
+      272
+     ],
+     [
+      258,
+      245
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[right]",
+   "guidance": "climber right",
+   "elements": {
+    "climber": [
+     [
+      228,
+      272
+     ],
+     [
+      262,
+      245
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      246
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      278,
+      245
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      246,
+      271
+     ],
+     [
+      278,
+      245
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      246,
+      272
+     ],
+     [
+      278,
+      242
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[up]",
+   "guidance": "climber up",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      248
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      272
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      244
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      244
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      246,
+      271
+     ],
+     [
+      278,
+      246
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      248,
+      271
+     ],
+     [
+      277,
+      245
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      243
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      272
+     ],
+     [
+      277,
+      242
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "climber": [
+     [
+      247,
+      271
+     ],
+     [
+      278,
+      243
+     ]
+    ]
+   }
+  }
+ }
+}

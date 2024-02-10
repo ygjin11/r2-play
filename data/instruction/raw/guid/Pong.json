@@ -1,0 +1,16102 @@
+{
+ "1": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      301
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      246
+     ],
+     [
+      432,
+      272
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      204
+     ],
+     [
+      432,
+      230
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      432,
+      224
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[leftfire]",
+   "guidance": "paddle leftfire to move away and deflect the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      223
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      222
+     ],
+     [
+      433,
+      247
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      255
+     ],
+     [
+      432,
+      281
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      433,
+      286
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      433,
+      286
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      433,
+      286
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      433,
+      286
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  }
+ },
+ "2": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      432,
+      224
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      223
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      432,
+      223
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      223
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      432,
+      223
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      199
+     ],
+     [
+      432,
+      223
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      432,
+      223
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      199
+     ],
+     [
+      433,
+      223
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      432,
+      223
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      223
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[leftfire]",
+   "guidance": "paddle leftfire to move away and deflect the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      432,
+      223
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      240
+     ],
+     [
+      432,
+      265
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      282
+     ],
+     [
+      433,
+      307
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      287
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      288
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      288
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  }
+ },
+ "3": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      433,
+      184
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      184
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      433,
+      185
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      159
+     ],
+     [
+      433,
+      185
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      433,
+      185
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      433,
+      184
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      160
+     ],
+     [
+      433,
+      184
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      433,
+      184
+     ]
+    ]
+   }
+  }
+ },
+ "4": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      153
+     ],
+     [
+      432,
+      179
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      105
+     ],
+     [
+      432,
+      130
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      96
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      433,
+      121
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      95
+     ],
+     [
+      432,
+      121
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      432,
+      122
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[fire]",
+   "guidance": "paddle fire to deflect the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      95
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      95
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      95
+     ],
+     [
+      432,
+      121
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      432,
+      122
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      95
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      96
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      95
+     ],
+     [
+      432,
+      122
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      432,
+      121
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      433,
+      121
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      432,
+      122
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      95
+     ],
+     [
+      432,
+      121
+     ]
+    ]
+   }
+  }
+ },
+ "5": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      172
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      171
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      204
+     ],
+     [
+      432,
+      230
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      222
+     ],
+     [
+      433,
+      248
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[leftfire]",
+   "guidance": "paddle leftfire to move away and deflect the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      266
+     ],
+     [
+      433,
+      293
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      285
+     ],
+     [
+      433,
+      311
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      288
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      288
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      288
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      288
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      288
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      288
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      288
+     ],
+     [
+      432,
+      312
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      288
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      288
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      288
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      246
+     ],
+     [
+      433,
+      272
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      194
+     ],
+     [
+      433,
+      221
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  }
+ },
+ "6": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      301
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      433,
+      312
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      301
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      300
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      433,
+      312
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      432,
+      312
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      300
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      246
+     ],
+     [
+      432,
+      271
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      228
+     ],
+     [
+      432,
+      254
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      432,
+      251
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      250
+     ]
+    ]
+   }
+  }
+ },
+ "7": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      212
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      212
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      211
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      211
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      211
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  }
+ },
+ "8": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      224
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      213
+     ],
+     [
+      433,
+      240
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      150
+     ],
+     [
+      433,
+      176
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      135
+     ],
+     [
+      433,
+      162
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      132
+     ],
+     [
+      433,
+      158
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      125
+     ],
+     [
+      433,
+      152
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      74
+     ],
+     [
+      433,
+      101
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      86
+     ],
+     [
+      433,
+      72
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      83
+     ],
+     [
+      432,
+      73
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      84
+     ],
+     [
+      433,
+      73
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      84
+     ],
+     [
+      433,
+      73
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      95
+     ],
+     [
+      433,
+      72
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      111
+     ],
+     [
+      433,
+      137
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      120
+     ],
+     [
+      433,
+      146
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      120
+     ],
+     [
+      433,
+      146
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      120
+     ],
+     [
+      433,
+      146
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      119
+     ],
+     [
+      433,
+      146
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      119
+     ],
+     [
+      433,
+      146
+     ]
+    ]
+   }
+  }
+ },
+ "9": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      432,
+      121
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      432,
+      121
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      433,
+      121
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      432,
+      121
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      432,
+      121
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      433,
+      121
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      433,
+      121
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      433,
+      121
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      432,
+      122
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      138
+     ],
+     [
+      433,
+      164
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      168
+     ],
+     [
+      432,
+      193
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  }
+ },
+ "10": {
+  "1": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      72
+     ],
+     [
+      432,
+      94
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      102
+     ],
+     [
+      432,
+      127
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      129
+     ],
+     [
+      433,
+      155
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      131
+     ],
+     [
+      433,
+      158
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      433,
+      158
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      433,
+      158
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      433,
+      157
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      432,
+      158
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      432,
+      157
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      433,
+      158
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      132
+     ],
+     [
+      433,
+      158
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      433,
+      158
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      433,
+      159
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      131
+     ],
+     [
+      433,
+      158
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      132
+     ],
+     [
+      433,
+      158
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      432,
+      158
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      432,
+      157
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      433,
+      158
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      119
+     ],
+     [
+      433,
+      146
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      79
+     ],
+     [
+      432,
+      103
+     ]
+    ]
+   }
+  }
+ },
+ "11": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      432,
+      107
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      433,
+      107
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      81
+     ],
+     [
+      433,
+      107
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      433,
+      107
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[leftfire]",
+   "guidance": "paddle leftfire to move away and deflect the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      95
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      162
+     ],
+     [
+      433,
+      188
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      183
+     ],
+     [
+      433,
+      209
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      211
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      212
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      211
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      211
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      212
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      211
+     ]
+    ]
+   }
+  }
+ },
+ "12": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      195
+     ],
+     [
+      433,
+      221
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[leftfire]",
+   "guidance": "paddle leftfire to move away and deflect the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      240
+     ],
+     [
+      432,
+      265
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      249
+     ],
+     [
+      433,
+      275
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      249
+     ],
+     [
+      433,
+      275
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      249
+     ],
+     [
+      433,
+      275
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      249
+     ],
+     [
+      433,
+      275
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      249
+     ],
+     [
+      432,
+      275
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      249
+     ],
+     [
+      432,
+      275
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      249
+     ],
+     [
+      433,
+      275
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      249
+     ],
+     [
+      433,
+      275
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      249
+     ],
+     [
+      433,
+      275
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      249
+     ],
+     [
+      433,
+      275
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      249
+     ],
+     [
+      432,
+      275
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      249
+     ],
+     [
+      433,
+      275
+     ]
+    ]
+   }
+  }
+ },
+ "13": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      238
+     ],
+     [
+      432,
+      262
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      262
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      433,
+      263
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      238
+     ],
+     [
+      432,
+      262
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      238
+     ],
+     [
+      433,
+      262
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      262
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      238
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  }
+ },
+ "14": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      252
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      250
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      252
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      432,
+      250
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      252
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      432,
+      251
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      201
+     ],
+     [
+      433,
+      227
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      144
+     ],
+     [
+      433,
+      169
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      134
+     ],
+     [
+      433,
+      161
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      432,
+      157
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      433,
+      158
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      432,
+      158
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      433,
+      157
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      432,
+      157
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      189
+     ],
+     [
+      432,
+      215
+     ]
+    ]
+   }
+  }
+ },
+ "15": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      433,
+      107
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      432,
+      107
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      432,
+      107
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      433,
+      106
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      82
+     ],
+     [
+      432,
+      107
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      432,
+      107
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      432,
+      107
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      432,
+      107
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      432,
+      107
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      432,
+      107
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      114
+     ],
+     [
+      432,
+      139
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      129
+     ],
+     [
+      432,
+      154
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      432,
+      157
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      433,
+      158
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      433,
+      157
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      420,
+      132
+     ],
+     [
+      432,
+      157
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      432,
+      158
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      432,
+      158
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      420,
+      132
+     ],
+     [
+      433,
+      158
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      432,
+      157
+     ]
+    ]
+   }
+  }
+ },
+ "16": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      433,
+      184
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      184
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      180
+     ],
+     [
+      432,
+      206
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      186
+     ],
+     [
+      432,
+      212
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      212
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      212
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      211
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      211
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      186
+     ],
+     [
+      432,
+      213
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      212
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      212
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      212
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      212
+     ]
+    ]
+   }
+  }
+ },
+ "17": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      211
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      212
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      212
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      212
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      185
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      219
+     ],
+     [
+      433,
+      245
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      246
+     ],
+     [
+      433,
+      272
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      249
+     ],
+     [
+      432,
+      275
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      249
+     ],
+     [
+      432,
+      275
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      249
+     ],
+     [
+      432,
+      275
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      249
+     ],
+     [
+      433,
+      275
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      249
+     ],
+     [
+      433,
+      275
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      249
+     ],
+     [
+      432,
+      275
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      249
+     ],
+     [
+      432,
+      275
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      249
+     ],
+     [
+      432,
+      275
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      249
+     ],
+     [
+      433,
+      275
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      249
+     ],
+     [
+      432,
+      275
+     ]
+    ]
+   }
+  }
+ },
+ "18": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      432,
+      173
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      433,
+      173
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      432,
+      173
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      433,
+      173
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      432,
+      173
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      432,
+      173
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      432,
+      173
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      432,
+      172
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      433,
+      172
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      433,
+      172
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      432,
+      172
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      432,
+      173
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      432,
+      173
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      432,
+      173
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      433,
+      173
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      433,
+      173
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      433,
+      173
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      433,
+      173
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      433,
+      173
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      432,
+      172
+     ]
+    ]
+   }
+  }
+ },
+ "19": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      212
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      185
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      213
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      212
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      153
+     ],
+     [
+      433,
+      179
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      114
+     ],
+     [
+      433,
+      140
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  }
+ },
+ "20": {
+  "1": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      73
+     ],
+     [
+      433,
+      86
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      73
+     ],
+     [
+      433,
+      82
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      73
+     ],
+     [
+      433,
+      95
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      102
+     ],
+     [
+      432,
+      128
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      133
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      133
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      108
+     ],
+     [
+      433,
+      133
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      108
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      133
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      133
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      133
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      133
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      133
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      133
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      133
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      93
+     ],
+     [
+      432,
+      118
+     ]
+    ]
+   }
+  }
+ },
+ "21": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      288
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      288
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      288
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      288
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      288
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      288
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      288
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      287
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      287
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      288
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      288
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      288
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      288
+     ],
+     [
+      432,
+      312
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      288
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      288
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      288
+     ],
+     [
+      433,
+      312
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      288
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      288
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      288
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      288
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  }
+ },
+ "22": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[rightfire]",
+   "guidance": "paddle rightfire to move towards and deflect the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      231
+     ],
+     [
+      433,
+      257
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      183
+     ],
+     [
+      433,
+      208
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      172
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      433,
+      196
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      172
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      172
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      172
+     ],
+     [
+      433,
+      196
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      172
+     ],
+     [
+      432,
+      196
+     ]
+    ]
+   }
+  }
+ },
+ "23": {
+  "1": {
+   "action": "[fire]",
+   "guidance": "paddle fire to deflect the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      276
+     ],
+     [
+      433,
+      302
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      276
+     ],
+     [
+      433,
+      302
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      276
+     ],
+     [
+      433,
+      302
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      276
+     ],
+     [
+      432,
+      302
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      276
+     ],
+     [
+      433,
+      302
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      276
+     ],
+     [
+      433,
+      302
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      276
+     ],
+     [
+      433,
+      302
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      276
+     ],
+     [
+      433,
+      302
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      276
+     ],
+     [
+      432,
+      301
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      276
+     ],
+     [
+      433,
+      301
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      276
+     ],
+     [
+      433,
+      302
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      276
+     ],
+     [
+      433,
+      302
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      276
+     ],
+     [
+      433,
+      302
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      276
+     ],
+     [
+      433,
+      302
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      276
+     ],
+     [
+      433,
+      302
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      275
+     ],
+     [
+      433,
+      301
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      275
+     ],
+     [
+      433,
+      302
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      276
+     ],
+     [
+      433,
+      302
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      276
+     ],
+     [
+      433,
+      302
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      276
+     ],
+     [
+      433,
+      302
+     ]
+    ]
+   }
+  }
+ },
+ "24": {
+  "1": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      138
+     ],
+     [
+      433,
+      164
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      433,
+      157
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      433,
+      157
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      432,
+      158
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      131
+     ],
+     [
+      432,
+      158
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      132
+     ],
+     [
+      433,
+      158
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      433,
+      157
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      432,
+      158
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      142
+     ],
+     [
+      432,
+      166
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      177
+     ],
+     [
+      433,
+      203
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      212
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      211
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      213
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      211
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      211
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  }
+ },
+ "25": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      432,
+      224
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      223
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      223
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      223
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      198
+     ],
+     [
+      433,
+      223
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      432,
+      224
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  }
+ },
+ "26": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      171
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      433,
+      198
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      192
+     ],
+     [
+      432,
+      219
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      199
+     ],
+     [
+      432,
+      224
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      420,
+      198
+     ],
+     [
+      433,
+      223
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      432,
+      225
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      420,
+      198
+     ],
+     [
+      432,
+      225
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      199
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      199
+     ],
+     [
+      432,
+      223
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      420,
+      198
+     ],
+     [
+      432,
+      224
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      199
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      432,
+      224
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      432,
+      223
+     ]
+    ]
+   }
+  }
+ },
+ "27": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      432,
+      212
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      211
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      186
+     ],
+     [
+      433,
+      212
+     ]
+    ]
+   }
+  }
+ },
+ "28": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      159
+     ],
+     [
+      433,
+      185
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      160
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      184
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      184
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      433,
+      185
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      184
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      433,
+      185
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      433,
+      185
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      433,
+      185
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      184
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      433,
+      185
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      433,
+      185
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      433,
+      185
+     ]
+    ]
+   }
+  }
+ },
+ "29": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      238
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      264
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      238
+     ],
+     [
+      432,
+      262
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      237
+     ],
+     [
+      433,
+      264
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      433,
+      262
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      433,
+      263
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      237
+     ],
+     [
+      433,
+      264
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      264
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      238
+     ],
+     [
+      433,
+      263
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      237
+     ],
+     [
+      433,
+      263
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      237
+     ],
+     [
+      432,
+      264
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      433,
+      263
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      237
+     ],
+     [
+      433,
+      264
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      433,
+      263
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      237
+     ],
+     [
+      433,
+      263
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      420,
+      238
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  }
+ },
+ "30": {
+  "1": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      234
+     ],
+     [
+      433,
+      260
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      237
+     ],
+     [
+      433,
+      263
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      262
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      238
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      237
+     ],
+     [
+      432,
+      263
+     ]
+    ]
+   }
+  }
+ },
+ "31": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      119
+     ],
+     [
+      432,
+      146
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      120
+     ],
+     [
+      433,
+      146
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      120
+     ],
+     [
+      432,
+      145
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[rightfire]",
+   "guidance": "paddle rightfire to move towards and deflect the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      84
+     ],
+     [
+      433,
+      110
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      433,
+      107
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      432,
+      107
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      432,
+      107
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      433,
+      107
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      433,
+      107
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      432,
+      107
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      433,
+      107
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      433,
+      106
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      432,
+      107
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      432,
+      106
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      433,
+      107
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      433,
+      107
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      433,
+      107
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      432,
+      107
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      81
+     ],
+     [
+      432,
+      107
+     ]
+    ]
+   }
+  }
+ },
+ "32": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      147
+     ],
+     [
+      433,
+      173
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      433,
+      173
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      433,
+      173
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      433,
+      173
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      433,
+      173
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      433,
+      172
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      433,
+      173
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      433,
+      185
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      201
+     ],
+     [
+      432,
+      227
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      210
+     ],
+     [
+      432,
+      237
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      210
+     ],
+     [
+      433,
+      236
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      210
+     ],
+     [
+      433,
+      236
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      210
+     ],
+     [
+      433,
+      236
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      210
+     ],
+     [
+      433,
+      236
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      210
+     ],
+     [
+      433,
+      236
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      210
+     ],
+     [
+      432,
+      236
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      210
+     ],
+     [
+      433,
+      236
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      210
+     ],
+     [
+      433,
+      236
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      210
+     ],
+     [
+      432,
+      237
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      210
+     ],
+     [
+      433,
+      236
+     ]
+    ]
+   }
+  }
+ },
+ "33": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      172
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      433,
+      196
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      196
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      171
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      171
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      433,
+      196
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      196
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      433,
+      196
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      172
+     ],
+     [
+      433,
+      197
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      171
+     ],
+     [
+      432,
+      197
+     ]
+    ]
+   }
+  }
+ },
+ "34": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      432,
+      224
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      197
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      162
+     ],
+     [
+      433,
+      188
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[rightfire]",
+   "guidance": "paddle rightfire to move towards and deflect the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      150
+     ],
+     [
+      433,
+      176
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      147
+     ],
+     [
+      433,
+      173
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      433,
+      173
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      147
+     ],
+     [
+      433,
+      173
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      433,
+      173
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      147
+     ],
+     [
+      433,
+      173
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      147
+     ],
+     [
+      433,
+      174
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      146
+     ],
+     [
+      433,
+      174
+     ]
+    ]
+   }
+  }
+ },
+ "35": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      109
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      133
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      133
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      102
+     ],
+     [
+      433,
+      128
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      95
+     ],
+     [
+      432,
+      122
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      95
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      433,
+      121
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      96
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      432,
+      122
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  }
+ },
+ "36": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      262
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      260
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      433,
+      286
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      433,
+      288
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      260
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  }
+ },
+ "37": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      433,
+      157
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      131
+     ],
+     [
+      433,
+      158
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      132
+     ],
+     [
+      433,
+      158
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      132
+     ],
+     [
+      433,
+      157
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      177
+     ],
+     [
+      433,
+      202
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      219
+     ],
+     [
+      433,
+      245
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      250
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      201
+     ],
+     [
+      433,
+      227
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      156
+     ],
+     [
+      433,
+      182
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      432,
+      173
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      432,
+      173
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      432,
+      172
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      147
+     ],
+     [
+      433,
+      172
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[leftfire]",
+   "guidance": "paddle leftfire to move away and deflect the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      201
+     ],
+     [
+      433,
+      227
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      263
+     ],
+     [
+      433,
+      290
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      273
+     ],
+     [
+      433,
+      299
+     ]
+    ]
+   }
+  }
+ },
+ "38": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      107
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      133
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      133
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      133
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      133
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      133
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      133
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      133
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      87
+     ],
+     [
+      433,
+      113
+     ]
+    ]
+   }
+  }
+ },
+ "39": {
+  "1": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      165
+     ],
+     [
+      433,
+      191
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      433,
+      185
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      184
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      433,
+      185
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      433,
+      185
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      433,
+      184
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      433,
+      185
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      160
+     ],
+     [
+      432,
+      184
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      184
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      433,
+      185
+     ]
+    ]
+   }
+  }
+ },
+ "40": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      262
+     ],
+     [
+      431,
+      287
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[leftfire]",
+   "guidance": "paddle leftfire to move away and deflect the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      306
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  }
+ },
+ "41": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      432,
+      224
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      222
+     ],
+     [
+      432,
+      247
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      255
+     ],
+     [
+      433,
+      281
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[fire]",
+   "guidance": "paddle fire to deflect the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      260
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  }
+ },
+ "42": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      226
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      432,
+      251
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      432,
+      250
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      226
+     ],
+     [
+      433,
+      250
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      268
+     ],
+     [
+      433,
+      292
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[leftfire]",
+   "guidance": "paddle leftfire to move away and deflect the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      297
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      300
+     ],
+     [
+      432,
+      312
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      300
+     ],
+     [
+      433,
+      313
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      301
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  }
+ },
+ "43": {
+  "1": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      126
+     ],
+     [
+      433,
+      152
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      433,
+      95
+     ],
+     [
+      419,
+      73
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      432,
+      83
+     ],
+     [
+      419,
+      73
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[fire]",
+   "guidance": "paddle fire to deflect the ball",
+   "elements": {
+    "paddle": [
+     [
+      432,
+      83
+     ],
+     [
+      419,
+      73
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      432,
+      83
+     ],
+     [
+      419,
+      73
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      90
+     ],
+     [
+      433,
+      116
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      433,
+      185
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      238
+     ],
+     [
+      433,
+      262
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      258
+     ],
+     [
+      433,
+      284
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      433,
+      287
+     ]
+    ]
+   }
+  }
+ },
+ "44": {
+  "1": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      141
+     ],
+     [
+      432,
+      167
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      111
+     ],
+     [
+      433,
+      137
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[fire]",
+   "guidance": "paddle fire to deflect the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      107
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      134
+     ]
+    ]
+   }
+  }
+ },
+ "45": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      432,
+      224
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      223
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      223
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      223
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      198
+     ],
+     [
+      433,
+      223
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      432,
+      224
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      198
+     ],
+     [
+      433,
+      224
+     ]
+    ]
+   }
+  }
+ },
+ "46": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      262
+     ],
+     [
+      431,
+      287
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[leftfire]",
+   "guidance": "paddle leftfire to move away and deflect the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      306
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  }
+ },
+ "47": {
+  "1": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      73
+     ],
+     [
+      433,
+      86
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      73
+     ],
+     [
+      433,
+      82
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      73
+     ],
+     [
+      433,
+      95
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      102
+     ],
+     [
+      432,
+      128
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      133
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      133
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      108
+     ],
+     [
+      433,
+      133
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      108
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      134
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      133
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      133
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      133
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      133
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      433,
+      133
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      133
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      108
+     ],
+     [
+      432,
+      133
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      93
+     ],
+     [
+      432,
+      118
+     ]
+    ]
+   }
+  }
+ },
+ "48": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      262
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      262
+     ],
+     [
+      431,
+      287
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      287
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[leftfire]",
+   "guidance": "paddle leftfire to move away and deflect the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      261
+     ],
+     [
+      432,
+      286
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      306
+     ],
+     [
+      432,
+      313
+     ]
+    ]
+   }
+  }
+ },
+ "49": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      159
+     ],
+     [
+      432,
+      185
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      153
+     ],
+     [
+      432,
+      179
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      105
+     ],
+     [
+      432,
+      130
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      96
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      433,
+      121
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      95
+     ],
+     [
+      432,
+      121
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      432,
+      122
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[fire]",
+   "guidance": "paddle fire to deflect the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      95
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      95
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      95
+     ],
+     [
+      432,
+      121
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      432,
+      122
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      95
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      96
+     ],
+     [
+      433,
+      122
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      95
+     ],
+     [
+      432,
+      122
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      432,
+      121
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      433,
+      121
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      96
+     ],
+     [
+      432,
+      122
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      95
+     ],
+     [
+      432,
+      121
+     ]
+    ]
+   }
+  }
+ },
+ "50": {
+  "1": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      252
+     ]
+    ]
+   }
+  },
+  "2": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      250
+     ]
+    ]
+   }
+  },
+  "3": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "4": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "5": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "6": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      252
+     ]
+    ]
+   }
+  },
+  "7": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "8": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      432,
+      250
+     ]
+    ]
+   }
+  },
+  "9": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      251
+     ]
+    ]
+   }
+  },
+  "10": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      433,
+      252
+     ]
+    ]
+   }
+  },
+  "11": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      225
+     ],
+     [
+      432,
+      251
+     ]
+    ]
+   }
+  },
+  "12": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      418,
+      201
+     ],
+     [
+      433,
+      227
+     ]
+    ]
+   }
+  },
+  "13": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      144
+     ],
+     [
+      433,
+      169
+     ]
+    ]
+   }
+  },
+  "14": {
+   "action": "[right]",
+   "guidance": "paddle right to move towards the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      134
+     ],
+     [
+      433,
+      161
+     ]
+    ]
+   }
+  },
+  "15": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      432,
+      157
+     ]
+    ]
+   }
+  },
+  "16": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      433,
+      158
+     ]
+    ]
+   }
+  },
+  "17": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      432,
+      158
+     ]
+    ]
+   }
+  },
+  "18": {
+   "action": "[noop]",
+   "guidance": "noop",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      433,
+      157
+     ]
+    ]
+   }
+  },
+  "19": {
+   "action": "[left]",
+   "guidance": "paddle left to move away from the ball",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      132
+     ],
+     [
+      432,
+      157
+     ]
+    ]
+   }
+  },
+  "20": {
+   "action": "null",
+   "guidance": "null",
+   "elements": {
+    "paddle": [
+     [
+      419,
+      189
+     ],
+     [
+      432,
+      215
+     ]
+    ]
+   }
+  }
+ }
+}
